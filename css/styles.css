@@ -182,8 +182,8 @@ p {
     padding-right: 20px;
 	position: absolute;
 	border: 2px solid black;
-	top:0;
-	right:0;
+	top:-2px;
+	right:-2px;
 	font-weight: bolder;
 }
 
